@@ -1,7 +1,7 @@
 # 🧠 Emoji Match - Memory Game
 
 <p align="center">
-  <img src="https://github.com/FarisAlbalawi/EmojiMatch/blob/main/logo.png" width="200" height="200" alt="Emoji Match Logo">
+  <img src="https://raw.githubusercontent.com/FarisAlbalawi/EmojiMatch/refs/heads/main/EmojiMatch/images/logo.png" width="200" height="200" alt="Emoji Match Logo">
 </p>
 
 <p align="center">
