@@ -39,7 +39,7 @@ Emoji Match is a fun and engaging memory game that challenges players to match p
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/FarisAlbalawi/EmojiMatch/blob/main/screenshots.png" width="800" alt="Emoji Match Screenshots">
+  <img src="https://raw.githubusercontent.com/FarisAlbalawi/EmojiMatch/refs/heads/main/EmojiMatch/images/screenshots.png" width="800" alt="Emoji Match Screenshots">
 </p>
 
 ## 🛠️ Technical Details
