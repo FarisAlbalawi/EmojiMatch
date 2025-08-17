@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/emoji-match-memory-game/id6748413149">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="200" alt="Download on the App Store">
+    <img src="https://raw.githubusercontent.com/FarisAlbalawi/EmojiMatch/refs/heads/main/EmojiMatch/images/screenshots.png" width="1000" alt="Download on the App Store">
   </a>
 </p>
 
