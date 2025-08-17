@@ -58,6 +58,8 @@
 		648144252E51F61500F1E4E3 /* InteractiveTooltip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 648143C92E51F61500F1E4E3 /* InteractiveTooltip.swift */; };
 		648144262E51F61500F1E4E3 /* GameMenuButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 648143D82E51F61500F1E4E3 /* GameMenuButton.swift */; };
 		648144282E51F61500F1E4E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 648143F12E51F61500F1E4E3 /* Assets.xcassets */; };
+		6481442C2E51F93300F1E4E3 /* screenshots.png in Resources */ = {isa = PBXBuildFile; fileRef = 6481442B2E51F93300F1E4E3 /* screenshots.png */; };
+		6481442E2E51F94C00F1E4E3 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6481442D2E51F94C00F1E4E3 /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -125,6 +127,8 @@
 		648143F32E51F61500F1E4E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		648143F42E51F61500F1E4E3 /* MatchCards.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MatchCards.entitlements; sourceTree = "<group>"; };
 		648143F52E51F61500F1E4E3 /* MatchCardsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchCardsApp.swift; sourceTree = "<group>"; };
+		6481442B2E51F93300F1E4E3 /* screenshots.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshots.png; sourceTree = "<group>"; };
+		6481442D2E51F94C00F1E4E3 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -311,6 +315,7 @@
 		648143F62E51F61500F1E4E3 /* EmojiMatch */ = {
 			isa = PBXGroup;
 			children = (
+				6481442A2E51F92400F1E4E3 /* images */,
 				648143B62E51F61500F1E4E3 /* Extensions */,
 				648143BB2E51F61500F1E4E3 /* Models */,
 				648143BD2E51F61500F1E4E3 /* Theme */,
@@ -324,6 +329,15 @@
 				648143F52E51F61500F1E4E3 /* MatchCardsApp.swift */,
 			);
 			path = EmojiMatch;
+			sourceTree = "<group>";
+		};
+		6481442A2E51F92400F1E4E3 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				6481442D2E51F94C00F1E4E3 /* logo.png */,
+				6481442B2E51F93300F1E4E3 /* screenshots.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -395,6 +409,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				648144282E51F61500F1E4E3 /* Assets.xcassets in Resources */,
+				6481442E2E51F94C00F1E4E3 /* logo.png in Resources */,
+				6481442C2E51F93300F1E4E3 /* screenshots.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
