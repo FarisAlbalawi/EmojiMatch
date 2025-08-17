@@ -138,6 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+- Inspired by [Match Cards](https://tinloof.com/work/match-cards) by Tinloof
 - Thanks to the iOS development community
 - Emoji designs from Apple
 - All contributors and testers
